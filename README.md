@@ -185,7 +185,7 @@ Each user story includes acceptance criteria and supports traceability to busine
 
 Low-fidelity wireframes illustrating the proposed user interface.
 
-### Dashboard
+### School Selection
 
 <img src="09_Wireframes/01_School_Selection.png" width="350">
 
