@@ -187,7 +187,7 @@ Low-fidelity wireframes illustrating the proposed user interface.
 
 ### Dashboard
 
-<img src="07_Wireframes/Dashboard.png" width="350">
+<img src="07_Wireframes/01_School_Selection.png" width="350">
 
 ### Teacher Login
 
