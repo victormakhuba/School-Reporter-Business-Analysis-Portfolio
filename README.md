@@ -260,7 +260,7 @@ Aspiring Business Analyst | Business Process Analyst | Project Coordinator
 
 GitHub: https://github.com/victormakhuba
 
-LinkedIn:# https://www.linkedin.com/in/victormakhuba/ – Business Analysis Portfolio
+LinkedIn:# https://www.linkedin.com/in/victormakhuba/
 
 ## Project Overview
 
@@ -524,7 +524,7 @@ Aspiring Business Analyst | Business Process Analyst | Project Coordinator
 
 GitHub: https://github.com/victormakhuba
 
-LinkedIn: *https://www.linkedin.com/in/victormakhuba/*# School Reporter – Business Analysis Portfolio
+LinkedIn: *https://www.linkedin.com/in/victormakhuba/*
 
 ## Project Overview
 
