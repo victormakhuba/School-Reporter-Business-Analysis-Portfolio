@@ -207,7 +207,7 @@ The project was planned using Jira following Agile principles.
 
 ### Jira Dashboard
 
-<img src="09_Jira/01_Jira_Project_Overview" width="650">
+<img src="08_Jira/01_Jira_Project_Overview" width="650">
 
 ### Board
 
