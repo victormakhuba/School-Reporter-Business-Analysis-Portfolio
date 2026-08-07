@@ -187,11 +187,11 @@ Low-fidelity wireframes illustrating the proposed user interface.
 
 ### Dashboard
 
-<img src="07_Wireframes/01_School_Selection.png" width="350">
+<img src="09_Wireframes/01_School_Selection.png" width="350">
 
 ### Teacher Login
 
-<img src="07_Wireframes/02_Login_Page.png" width="350">
+<img src="09_Wireframes/02_Login_Page.png" width="350">
 
 **Skills**
 
@@ -207,11 +207,11 @@ The project was planned using Jira following Agile principles.
 
 ### Jira Dashboard
 
-<img src="08_Jira/Jira%20School%20Reporter.PNG" width="650">
+<img src="08_Jira/01_Jira_Project_Overview" width="650">
 
 ### Board
 
-<img src="08_Jira/Jira%20Board.PNG" width="650">
+<img src="08_Jira/02_Board_View.png" width="650">
 
 ### Timeline
 
