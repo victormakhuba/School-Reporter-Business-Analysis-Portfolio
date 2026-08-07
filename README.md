@@ -34,7 +34,7 @@
 
 ## Project Timeline
 
-<img src="08_Jira/Timeline.PNG" width="700">
+<img src="03_Timeline_View.png" width="700">
 
 ---
 
