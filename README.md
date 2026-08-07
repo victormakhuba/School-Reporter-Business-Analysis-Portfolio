@@ -191,7 +191,7 @@ Low-fidelity wireframes illustrating the proposed user interface.
 
 ### Teacher Login
 
-<img src="07_Wireframes/Teacher_Login.png" width="350">
+<img src="07_Wireframes/02_Login_Page.png" width="350">
 
 **Skills**
 
