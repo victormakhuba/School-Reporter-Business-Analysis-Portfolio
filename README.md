@@ -28,7 +28,7 @@
 
 ## Jira Board
 
-<img src="08_Jira/Jira%20Board.PNG" width="700">
+<img src="08_Jira/01_Jira_Project_Overview.png" width="700">
 
 ---
 
