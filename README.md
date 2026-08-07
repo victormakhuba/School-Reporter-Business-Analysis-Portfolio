@@ -219,7 +219,7 @@ The project was planned using Jira following Agile principles.
 
 ### Calendar
 
-<img src="08_Jira/04_Calender_View.png" width="650">
+<img src="08_Jira/04_Calendar_View.png" width="650">
 
 **Skills**
 
