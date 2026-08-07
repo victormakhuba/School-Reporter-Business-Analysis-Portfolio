@@ -1,45 +1,86 @@
-# School Reporter – Business Analysis Portfolio
+# 🎓 School Reporter – Business Analysis Portfolio
 
-## Project Overview
-
-School Reporter is a Business Analysis portfolio project that demonstrates the end-to-end analysis, planning and documentation involved in delivering a digital school management solution.
-
-The project focuses on improving communication between schools and parents while streamlining key administrative processes such as learner management, attendance tracking, homework management and behaviour recording.
-
-This repository showcases the deliverables a Business Analyst would typically produce during the Software Development Life Cycle (SDLC), from project initiation through requirements gathering, planning, solution design and testing.
+> **An end-to-end Business Analysis portfolio project demonstrating the Software Development Life Cycle (SDLC), Agile practices, requirements engineering, business process modelling, project planning and functional testing.**
 
 ---
 
-## Project Objectives
+## Portfolio Highlights
 
-- Improve communication between schools and parents.
-- Digitise manual school administration processes.
-- Reduce administrative workload for teachers.
-- Improve the accuracy of learner information.
-- Support informed decision-making through reporting.
-- Demonstrate practical Business Analysis skills using industry-standard documentation and tools.
+✔ End-to-End Business Analysis Project
+
+✔ Agile Project Planning using Jira
+
+✔ Business Process Modelling with Draw.io
+
+✔ Requirements Documentation (BRD & SRS)
+
+✔ User Stories with Acceptance Criteria
+
+✔ Low-Fidelity Wireframes
+
+✔ Functional Test Cases
+
+✔ Requirements Traceability
 
 ---
 
-## SDLC Methodology
+# Project Preview
 
-This project follows an Agile approach and demonstrates Business Analysis activities performed throughout the Software Development Life Cycle (SDLC), including:
+## Jira Board
 
-- Business Analysis
-- Requirements Elicitation
-- Requirements Documentation
-- Process Modelling
-- Agile Planning
-- Wireframing
-- User Story Development
-- Functional Testing
-- Requirements Traceability
+<img src="08_Jira/Jira%20Board.PNG" width="700">
+
+---
+
+## Project Timeline
+
+<img src="08_Jira/Timeline.PNG" width="700">
+
+---
+
+## Teacher Login Process
+
+<img src="05_Process_Maps/Teacher_Login_Process.drawio.png" width="600">
+
+---
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
+- [Portfolio Artefacts](#portfolio-artefacts)
+- [Tools Used](#tools-used)
+- [Business Analysis Skills](#business-analysis-skills)
+- [Future Improvements](#future-improvements)
+- [About Me](#about-me)
+
+---
+
+# Project Overview
+
+School Reporter is a Business Analysis portfolio project developed to demonstrate the complete Business Analysis lifecycle for a digital school management solution.
+
+The project focuses on improving communication between schools and parents while streamlining school administration through requirements gathering, documentation, Agile planning, process modelling and solution design.
+
+This repository contains the deliverables typically produced by a Business Analyst throughout a software development project.
+
+---
+
+# Business Objectives
+
+- Improve communication between schools and parents
+- Digitise manual administrative processes
+- Reduce teacher administrative workload
+- Improve learner record accuracy
+- Improve operational efficiency
+- Support informed decision-making
+- Demonstrate practical Business Analysis skills
 
 ---
 
 # Repository Structure
 
-```
+```text
 School-Reporter-Business-Analysis-Portfolio
 │
 ├── 01_Project_Charter
@@ -58,70 +99,67 @@ School-Reporter-Business-Analysis-Portfolio
 
 # Portfolio Artefacts
 
-## 01 – Project Charter
+---
 
-Defines the project's purpose, objectives, stakeholders, scope, assumptions, constraints, risks and success criteria.
+## 01 • Project Charter
 
-**Skills Demonstrated**
+Defines the project vision, objectives, stakeholders, scope, assumptions, constraints and success criteria.
+
+**Skills**
 
 - Project Initiation
-- Stakeholder Identification
 - Scope Definition
+- Stakeholder Analysis
 - Project Planning
 
 ---
 
-## 02 – Business Case
+## 02 • Business Case
 
-Evaluates the business need for the School Reporter solution, including problem definition, options analysis, estimated costs, expected benefits, return on investment (ROI) and project recommendation.
+Demonstrates the business need, financial justification, estimated costs, expected benefits and ROI for the School Reporter solution.
 
-**Skills Demonstrated**
+**Skills**
 
 - Business Analysis
-- Cost-Benefit Analysis
-- Financial Evaluation
+- Cost–Benefit Analysis
 - Business Justification
+- Financial Evaluation
 
 ---
 
-## 03 – Business Requirements Document (BRD)
+## 03 • Business Requirements Document (BRD)
 
-Documents the high-level business requirements, business objectives, stakeholder needs and project scope.
+Documents the high-level business requirements, stakeholder needs and project scope.
 
-**Skills Demonstrated**
+**Skills**
 
 - Requirements Elicitation
 - Requirements Analysis
 - Business Documentation
-- Stakeholder Management
 
 ---
 
-## 04 – Software Requirements Specification (SRS)
+## 04 • Software Requirements Specification (SRS)
 
-Defines the functional and non-functional requirements required to develop the School Reporter platform.
+Captures the functional and non-functional system requirements.
 
-**Skills Demonstrated**
+**Skills**
 
 - Functional Requirements
 - Non-Functional Requirements
-- Requirements Specification
-- Solution Analysis
+- Requirements Documentation
 
 ---
 
-## 05 – Process Maps
+## 05 • Process Maps
 
-Business process diagrams created using Draw.io to visualise system workflows.
+Business process diagrams created using Draw.io.
 
-Included process maps:
+### Teacher Login Process
 
-- Teacher Login
-- Attendance Management
-- Homework Management
-- Behaviour Management
+<img src="05_Process_Maps/Teacher_Login_Process.drawio.png" width="550">
 
-**Skills Demonstrated**
+**Skills**
 
 - Business Process Modelling
 - Workflow Analysis
@@ -129,102 +167,136 @@ Included process maps:
 
 ---
 
-## 06 – User Stories
+## 06 • User Stories
 
-Agile user stories written from the perspective of end users with acceptance criteria.
+Agile user stories written using the standard format:
 
-**Skills Demonstrated**
+> As a...
+>
+> I want...
+>
+> So that...
 
-- Agile Business Analysis
-- User Story Writing
-- Acceptance Criteria
-- Requirements Traceability
+Each user story includes acceptance criteria and supports traceability to business requirements and test cases.
 
 ---
 
-## 07 – Wireframes
+## 07 • Wireframes
 
-Low-fidelity wireframes illustrating the proposed user interface for key system screens.
+Low-fidelity wireframes illustrating the proposed user interface.
 
-Included screens:
+### Dashboard
 
-- School Selection
-- Teacher Login
-- Dashboard
-- Learner Management
-- Attendance
-- Homework
-- Behaviour
+<img src="07_Wireframes/Dashboard.png" width="350">
 
-**Skills Demonstrated**
+### Teacher Login
 
+<img src="07_Wireframes/Teacher_Login.png" width="350">
+
+**Skills**
+
+- Wireframing
 - UX Thinking
 - Solution Design
-- Requirements Visualisation
 
 ---
 
-## 08 – Jira
+## 08 • Jira
 
-Agile project planning completed in Jira.
+The project was planned using Jira following Agile principles.
 
-Includes:
+### Jira Dashboard
 
-- Product Backlog
-- Epics
-- Features
-- Tasks
-- Timeline
-- Board
-- Calendar
+<img src="08_Jira/Jira%20School%20Reporter.PNG" width="650">
 
-**Skills Demonstrated**
+### Board
 
-- Agile Planning
+<img src="08_Jira/Jira%20Board.PNG" width="650">
+
+### Timeline
+
+<img src="08_Jira/Timeline.PNG" width="650">
+
+### Calendar
+
+<img src="08_Jira/Calender.PNG" width="650">
+
+**Skills**
+
+- Agile
+- Scrum
 - Backlog Management
 - Sprint Planning
-- Jira Administration
 
 ---
 
-## 09 – Test Cases
+## 09 • Test Cases
 
-Functional test cases derived from the user stories and business requirements.
+Functional test cases linked to user stories and business requirements.
 
-Includes:
+The repository includes:
 
-- Test Cases
+- Functional Test Cases
 - Expected Results
 - Pass/Fail Criteria
 - Requirements Traceability Matrix
 
-**Skills Demonstrated**
+**Skills**
 
 - Functional Testing
-- Test Planning
 - Quality Assurance
+- Test Planning
 - Requirements Validation
+
+---
+
+# SDLC Lifecycle Demonstrated
+
+```text
+Business Case
+        ↓
+Project Charter
+        ↓
+Business Requirements (BRD)
+        ↓
+Software Requirements (SRS)
+        ↓
+User Stories
+        ↓
+Process Maps
+        ↓
+Wireframes
+        ↓
+Jira Planning
+        ↓
+Test Cases
+```
 
 ---
 
 # Tools Used
 
-- Jira
-- Draw.io
-- Microsoft Word
-- Git
-- GitHub
+| Tool | Purpose |
+|-------|---------|
+| Jira | Agile Project Management |
+| Draw.io | Process Mapping |
+| Microsoft Word | Documentation |
+| Git | Version Control |
+| GitHub | Portfolio Hosting |
 
 ---
 
-# Business Analysis Skills Demonstrated
+# Business Analysis Skills
 
+- Business Analysis
 - Requirements Gathering
 - Stakeholder Analysis
+- Requirements Documentation
 - Business Process Modelling
 - Agile Methodologies
-- User Story Development
-- Requirements Documentation
+- Scrum
+- User Story Writing
+- Acceptance Criteria
 - Wireframing
 - Functional Testing
 - Requirements Traceability
@@ -232,566 +304,38 @@ Includes:
 
 ---
 
-# Key Deliverables
+# Future Improvements
 
-- Project Charter
-- Business Case
-- Business Requirements Document (BRD)
-- Software Requirements Specification (SRS)
-- Process Maps
-- User Stories
-- Wireframes
-- Jira Project
-- Test Cases
+Future versions of this project may include:
 
----
-
-# About This Project
-
-This project was developed as part of my professional Business Analysis portfolio to demonstrate practical experience in analysing business problems, documenting requirements and supporting software solution delivery using industry-standard techniques, documentation and Agile practices.
+- Interactive prototype (Figma)
+- BPMN 2.0 diagrams
+- SQL database model
+- REST API documentation
+- Azure DevOps backlog
+- User Acceptance Testing (UAT)
+- Parent mobile application
 
 ---
 
-## Author
+# About Me
 
-**Victor Makhuba**
+## Victor Makhuba
 
-Aspiring Business Analyst | Business Process Analyst | Project Coordinator
+Aspiring Business Analyst with a passion for analysing business problems, improving processes and supporting software solution delivery through structured requirements analysis and Agile methodologies.
 
-GitHub: https://github.com/victormakhuba
+### Connect with me
 
-LinkedIn:# https://www.linkedin.com/in/victormakhuba/
+**LinkedIn**
 
-## Project Overview
+https://www.linkedin.com/in/victormakhuba/
 
-School Reporter is a Business Analysis portfolio project that demonstrates the end-to-end analysis, planning and documentation involved in delivering a digital school management solution.
+**GitHub**
 
-The project focuses on improving communication between schools and parents while streamlining key administrative processes such as learner management, attendance tracking, homework management and behaviour recording.
-
-This repository showcases the deliverables a Business Analyst would typically produce during the Software Development Life Cycle (SDLC), from project initiation through requirements gathering, planning, solution design and testing.
+https://github.com/victormakhuba
 
 ---
 
-## Project Objectives
+## Thank you for visiting my portfolio.
 
-- Improve communication between schools and parents.
-- Digitise manual school administration processes.
-- Reduce administrative workload for teachers.
-- Improve the accuracy of learner information.
-- Support informed decision-making through reporting.
-- Demonstrate practical Business Analysis skills using industry-standard documentation and tools.
-
----
-
-## SDLC Methodology
-
-This project follows an Agile approach and demonstrates Business Analysis activities performed throughout the Software Development Life Cycle (SDLC), including:
-
-- Business Analysis
-- Requirements Elicitation
-- Requirements Documentation
-- Process Modelling
-- Agile Planning
-- Wireframing
-- User Story Development
-- Functional Testing
-- Requirements Traceability
-
----
-
-# Repository Structure
-
-```
-School-Reporter-Business-Analysis-Portfolio
-│
-├── 01_Project_Charter
-├── 02_Business_Case
-├── 03_BRD
-├── 04_SRS
-├── 05_Process_Maps
-├── 06_User_Stories
-├── 07_Wireframes
-├── 08_Jira
-├── 09_Test_Cases
-└── README.md
-```
-
----
-
-# Portfolio Artefacts
-
-## 01 – Project Charter
-
-Defines the project's purpose, objectives, stakeholders, scope, assumptions, constraints, risks and success criteria.
-
-**Skills Demonstrated**
-
-- Project Initiation
-- Stakeholder Identification
-- Scope Definition
-- Project Planning
-
----
-
-## 02 – Business Case
-
-Evaluates the business need for the School Reporter solution, including problem definition, options analysis, estimated costs, expected benefits, return on investment (ROI) and project recommendation.
-
-**Skills Demonstrated**
-
-- Business Analysis
-- Cost-Benefit Analysis
-- Financial Evaluation
-- Business Justification
-
----
-
-## 03 – Business Requirements Document (BRD)
-
-Documents the high-level business requirements, business objectives, stakeholder needs and project scope.
-
-**Skills Demonstrated**
-
-- Requirements Elicitation
-- Requirements Analysis
-- Business Documentation
-- Stakeholder Management
-
----
-
-## 04 – Software Requirements Specification (SRS)
-
-Defines the functional and non-functional requirements required to develop the School Reporter platform.
-
-**Skills Demonstrated**
-
-- Functional Requirements
-- Non-Functional Requirements
-- Requirements Specification
-- Solution Analysis
-
----
-
-## 05 – Process Maps
-
-Business process diagrams created using Draw.io to visualise system workflows.
-
-Included process maps:
-
-- Teacher Login
-- Attendance Management
-- Homework Management
-- Behaviour Management
-
-**Skills Demonstrated**
-
-- Business Process Modelling
-- Workflow Analysis
-- Process Improvement
-
----
-
-## 06 – User Stories
-
-Agile user stories written from the perspective of end users with acceptance criteria.
-
-**Skills Demonstrated**
-
-- Agile Business Analysis
-- User Story Writing
-- Acceptance Criteria
-- Requirements Traceability
-
----
-
-## 07 – Wireframes
-
-Low-fidelity wireframes illustrating the proposed user interface for key system screens.
-
-Included screens:
-
-- School Selection
-- Teacher Login
-- Dashboard
-- Learner Management
-- Attendance
-- Homework
-- Behaviour
-- Reports
-- Settings
-
-**Skills Demonstrated**
-
-- UX Thinking
-- Solution Design
-- Requirements Visualisation
-
----
-
-## 08 – Jira
-
-Agile project planning completed in Jira.
-
-Includes:
-
-- Product Backlog
-- Epics
-- Features
-- Tasks
-- Timeline
-- Board
-- Calendar
-
-**Skills Demonstrated**
-
-- Agile Planning
-- Backlog Management
-- Sprint Planning
-- Jira Administration
-
----
-
-## 09 – Test Cases
-
-Functional test cases derived from the user stories and business requirements.
-
-Includes:
-
-- Test Cases
-- Expected Results
-- Pass/Fail Criteria
-- Requirements Traceability Matrix
-
-**Skills Demonstrated**
-
-- Functional Testing
-- Test Planning
-- Quality Assurance
-- Requirements Validation
-
----
-
-# Tools Used
-
-- Jira
-- Draw.io
-- Microsoft Word
-- Git
-- GitHub
-
----
-
-# Business Analysis Skills Demonstrated
-
-- Requirements Gathering
-- Stakeholder Analysis
-- Business Process Modelling
-- Agile Methodologies
-- User Story Development
-- Requirements Documentation
-- Wireframing
-- Functional Testing
-- Requirements Traceability
-- Project Documentation
-
----
-
-# Key Deliverables
-
-- Project Charter
-- Business Case
-- Business Requirements Document (BRD)
-- Software Requirements Specification (SRS)
-- Process Maps
-- User Stories
-- Wireframes
-- Jira Project
-- Test Cases
-
----
-
-# About This Project
-
-This project was developed as part of my professional Business Analysis portfolio to demonstrate practical experience in analysing business problems, documenting requirements and supporting software solution delivery using industry-standard techniques, documentation and Agile practices.
-
----
-
-## Author
-
-**Victor Makhuba**
-
-Aspiring Business Analyst | Business Process Analyst | Project Coordinator
-
-GitHub: https://github.com/victormakhuba
-
-LinkedIn: *https://www.linkedin.com/in/victormakhuba/*
-
-## Project Overview
-
-School Reporter is a Business Analysis portfolio project that demonstrates the end-to-end analysis, planning and documentation involved in delivering a digital school management solution.
-
-The project focuses on improving communication between schools and parents while streamlining key administrative processes such as learner management, attendance tracking, homework management and behaviour recording.
-
-This repository showcases the deliverables a Business Analyst would typically produce during the Software Development Life Cycle (SDLC), from project initiation through requirements gathering, planning, solution design and testing.
-
----
-
-## Project Objectives
-
-- Improve communication between schools and parents.
-- Digitise manual school administration processes.
-- Reduce administrative workload for teachers.
-- Improve the accuracy of learner information.
-- Support informed decision-making through reporting.
-- Demonstrate practical Business Analysis skills using industry-standard documentation and tools.
-
----
-
-## SDLC Methodology
-
-This project follows an Agile approach and demonstrates Business Analysis activities performed throughout the Software Development Life Cycle (SDLC), including:
-
-- Business Analysis
-- Requirements Elicitation
-- Requirements Documentation
-- Process Modelling
-- Agile Planning
-- Wireframing
-- User Story Development
-- Functional Testing
-- Requirements Traceability
-
----
-
-# Repository Structure
-
-```
-School-Reporter-Business-Analysis-Portfolio
-│
-├── 01_Project_Charter
-├── 02_Business_Case
-├── 03_BRD
-├── 04_SRS
-├── 05_Process_Maps
-├── 06_User_Stories
-├── 07_Wireframes
-├── 08_Jira
-├── 09_Test_Cases
-└── README.md
-```
-
----
-
-# Portfolio Artefacts
-
-## 01 – Project Charter
-
-Defines the project's purpose, objectives, stakeholders, scope, assumptions, constraints, risks and success criteria.
-
-**Skills Demonstrated**
-
-- Project Initiation
-- Stakeholder Identification
-- Scope Definition
-- Project Planning
-
----
-
-## 02 – Business Case
-
-Evaluates the business need for the School Reporter solution, including problem definition, options analysis, estimated costs, expected benefits, return on investment (ROI) and project recommendation.
-
-**Skills Demonstrated**
-
-- Business Analysis
-- Cost-Benefit Analysis
-- Financial Evaluation
-- Business Justification
-
----
-
-## 03 – Business Requirements Document (BRD)
-
-Documents the high-level business requirements, business objectives, stakeholder needs and project scope.
-
-**Skills Demonstrated**
-
-- Requirements Elicitation
-- Requirements Analysis
-- Business Documentation
-- Stakeholder Management
-
----
-
-## 04 – Software Requirements Specification (SRS)
-
-Defines the functional and non-functional requirements required to develop the School Reporter platform.
-
-**Skills Demonstrated**
-
-- Functional Requirements
-- Non-Functional Requirements
-- Requirements Specification
-- Solution Analysis
-
----
-
-## 05 – Process Maps
-
-Business process diagrams created using Draw.io to visualise system workflows.
-
-Included process maps:
-
-- Teacher Login
-- Attendance Management
-- Homework Management
-- Behaviour Management
-
-**Skills Demonstrated**
-
-- Business Process Modelling
-- Workflow Analysis
-- Process Improvement
-
----
-
-## 06 – User Stories
-
-Agile user stories written from the perspective of end users with acceptance criteria.
-
-**Skills Demonstrated**
-
-- Agile Business Analysis
-- User Story Writing
-- Acceptance Criteria
-- Requirements Traceability
-
----
-
-## 07 – Wireframes
-
-Low-fidelity wireframes illustrating the proposed user interface for key system screens.
-
-Included screens:
-
-- School Selection
-- Teacher Login
-- Dashboard
-- Learner Management
-- Attendance
-- Homework
-- Behaviour
-- Reports
-- Settings
-
-**Skills Demonstrated**
-
-- UX Thinking
-- Solution Design
-- Requirements Visualisation
-
----
-
-## 08 – Jira
-
-Agile project planning completed in Jira.
-
-Includes:
-
-- Product Backlog
-- Epics
-- Features
-- Tasks
-- Timeline
-- Board
-- Calendar
-
-**Skills Demonstrated**
-
-- Agile Planning
-- Backlog Management
-- Sprint Planning
-- Jira Administration
-
----
-
-## 09 – Test Cases
-
-Functional test cases derived from the user stories and business requirements.
-
-Includes:
-
-- Test Cases
-- Expected Results
-- Pass/Fail Criteria
-- Requirements Traceability Matrix
-
-**Skills Demonstrated**
-
-- Functional Testing
-- Test Planning
-- Quality Assurance
-- Requirements Validation
-
----
-
-# Tools Used
-
-- Jira
-- Draw.io
-- Microsoft Word
-- Git
-- GitHub
-
----
-
-# Business Analysis Skills Demonstrated
-
-- Requirements Gathering
-- Stakeholder Analysis
-- Business Process Modelling
-- Agile Methodologies
-- User Story Development
-- Requirements Documentation
-- Wireframing
-- Functional Testing
-- Requirements Traceability
-- Project Documentation
-
----
-
-# Key Deliverables
-
-- Project Charter
-- Business Case
-- Business Requirements Document (BRD)
-- Software Requirements Specification (SRS)
-- Process Maps
-- User Stories
-- Wireframes
-- Jira Project
-- Test Cases
-
----
-
-# About This Project
-
-This project was developed as part of my professional Business Analysis portfolio to demonstrate practical experience in analysing business problems, documenting requirements and supporting software solution delivery using industry-standard techniques, documentation and Agile practices.
-
----
-
-## Author
-
-**Victor Makhuba**
-
-Aspiring Business Analyst | Business Process Analyst | Project Coordinator
-
-GitHub: https://github.com/victormakhuba
-
-LinkedIn: https://www.linkedin.com/in/victormakhuba/
-
----
-
----
-
----
+If you have any feedback or opportunities, feel free to connect with me on LinkedIn.
