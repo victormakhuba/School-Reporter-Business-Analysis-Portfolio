@@ -211,15 +211,15 @@ The project was planned using Jira following Agile principles.
 
 ### Board
 
-<img src="09_Jira/02_Board_View.png" width="650">
+<img src="08_Jira/02_Board_View.png" width="650">
 
 ### Timeline
 
-<img src="09_Jira/Timeline_View.png" width="650">
+<img src="08_Jira/03_Timeline_View.png" width="650">
 
 ### Calendar
 
-<img src="09_Jira/Calender_View.png" width="650">
+<img src="08_Jira/04_Calender_View.png" width="650">
 
 **Skills**
 
